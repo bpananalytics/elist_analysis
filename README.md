@@ -16,6 +16,10 @@ Sales trend analysis for e-commerce company.
 <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/4f680fc7-9aa2-4275-8007-9cc0e47d724b" />
 
 ### Sales Revenue
+- Overview: 2020 marked with incredible revenue growth, up 62% of previous year's revenue. Subsequent years show gradual return to previous levels, suggesting lockdown as a contributing factor to revenue surge.
+- Geography: North America leads in regional sales, with US making 60% of total revenue.
+- Seasonality: Q3 consistently records stronger sales performance, largely attributable to heightened consumer activity during the summer season.
+
 ### Average Order Value (AOV)
 ### Order Count 
 
