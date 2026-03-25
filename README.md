@@ -21,6 +21,10 @@ Sales trend analysis for e-commerce company.
 - Seasonality: Q3 consistently records stronger sales performance, largely attributable to heightened consumer activity during the summer season.
 
 ### Average Order Value (AOV)
+- Overview: AOV grew by 30% in 2020, but returned to 2019 levels by 2022. Market contraction may be contributing factor to AOV growth, with expansion related to AOV decline.
+- Geography: APAC leads in AOV figures for every year after 2020, driven by purchasing patterns in VU.
+- Seasonality: AOV up in February, October, and December, likely due to holiday spending. 
+
 ### Order Count 
 
 ## Product Trend
