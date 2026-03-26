@@ -31,5 +31,9 @@ Sales trend analysis for e-commerce company.
 - Seasonality: Order Count experiences dips in February and October, likely due to end of holiday season in February and end of summer purchases in October respectively. 
 
 ## Product Trend
+
+Gaming monitor accounts for 35% of the net revenue, followed by Apple Airpods at 27% and Macbook Air Laptop at 22%. The most popular order is the Apple Airpods, having sold 48,404 units. The least popular order is the Bose Soundsport Headphone, having only sold 27 units. Consequently, Apple is the most popular brand, accounting for to 50% of revenue and Bose at 0.01% respectively. 
+
+
 ## Loyalty Porgram
 ## Refund Rate
