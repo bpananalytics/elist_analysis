@@ -18,14 +18,17 @@ Sales trend analysis for e-commerce company.
 ### Sales Revenue
 - Overview: 2020 marked with incredible revenue growth, up 62% of previous year's revenue. Subsequent years show gradual return to previous levels, suggesting lockdown as a contributing factor to revenue surge.
 - Geography: North America leads in regional sales, with US making 60% of total revenue.
-- Seasonality: Q3 consistently records stronger sales performance, largely attributable to heightened consumer activity during the summer season.
+- Seasonality: Q3 consistently records stronger revenue performance, likely driven by seasonaly increase in AOV for the months of July, August, and September. 
 
 ### Average Order Value (AOV)
-- Overview: AOV grew by 30% in 2020, but returned to 2019 levels by 2022. Market contraction may be contributing factor to AOV growth, with expansion related to AOV decline.
-- Geography: APAC leads in AOV figures for every year after 2020, driven by purchasing patterns in VU.
-- Seasonality: AOV up in February, October, and December, likely due to holiday spending. 
+- Overview: AOV grew by 30% in 2020, but returned to 2019 levels by 2022. Market contraction of lockdown accessible suppliers may be contributing factor to AOV growth, with associated market expansion of suppliers related to AOV decline.
+- Geography: APAC has the highest AOV. But by country, VG leads in AOV for all sales in the time frame of 2019-2022. 
+- Seasonality: Q3 has high AOV performance, likely driven by summer purchases and increased seasonal purchasing activity.  
 
 ### Order Count 
+- Overview: Number of Orders experienced dramatic increase in 2020, followed by gradual increase in 2021 and return towards 2019 levels by 2022.
+- Geography: North America outperforms all other regions in order count, of which US contributes to 60% of all orders. EMEA is next best performer, with GB accounting for 10% of all orders.
+- Seasonality: Order Count experiences dips in February and October, likely due to end of holiday season in February and end of summer purchases in October respectively. 
 
 ## Product Trend
 ## Loyalty Porgram
