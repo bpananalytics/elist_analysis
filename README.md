@@ -1,14 +1,14 @@
 # elist_analysis
-Sales trend analysis for e-commerce company. 
+
+Company is an e-commerce company founded in 2019 that has since sold more than 28M dollars of popular electronics online. In this report, we will be exploring   
+
+**Sales Analysis:** Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Order Volume, and Average Order Value (AOV).  
+**Product Level Performance:** An analysis of Company's various product lines, understanding their impact on sales and returns.  
+**Loyalty Program Success:** An assessment of the loyalty program on customer retention and sales.  
+**Refund Rate:** An analysis of refunds   
 
 # Overview
 
-Company is an e-commerce company founded in 2019 that has since sold more than 28M dollars of popular electronics online. In this report, we will be exploring 
-
-**Sales Analysis:** Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Order Volume, and Average Order Value (AOV).
-**Product Level Performance:** An analysis of Company's various product lines, understanding their impact on sales and returns.
-**Loyalty Program Success:** An assessment of the loyalty program on customer retention and sales.
-**Refund Rate:** An analysis of refunds 
 
 ## ERD Diagram
 <img width="835" height="477" alt="image" src="https://github.com/user-attachments/assets/37befe8e-a928-4160-9d1e-868609b0ce78" />
