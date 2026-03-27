@@ -44,6 +44,11 @@ Gaming monitor accounts for 35% of the net revenue, followed by Apple Airpods at
 
 ## Loyalty Program
 
-Loyalty program has been successful, with net revenue generated for loyalty program customers up 613% compared to that of no-program customers after one year in effect. Following 2020 revenue boon, loyalty program still exhibits benefits in retaining customers by way of increasing order count, outperforming non-program customers for all subsequent years. 
+Loyalty program has been successful, with net revenue generated for loyalty program customers up 613% compared to that of no-program customers after one year in effect. Following 2020 revenue boon, loyalty program still exhibits benefits in retaining customers by way of increasing order count, outperforming non-program customers for all subsequent years. During the active months of the refund activity, an estimate of $74k worth of products were regularly refunded on a monthly basis. 
 
 ## Refund Rate
+
+Refunds were made with much overlap during the revenue boon during the year 2020 and 2021, after which buyers are conservative with their purchasing and buy only what they needed. As such, from August 2021 to end of 2022, no refunds were requested by buyers. Of which, the bulk of revenue loss from refunds were from gaming monitors (35%), apple airpods (27%), and Macbook Air(22%). However, by volume, the most refunded product is Apple Airpods accounting for 45% of the returned items. The least refunded products were the bose headphones followed by the Apple iphone. The former being niche in appeal while the latter having a functional necessity for everyday use. 
+
+# Recommendations
+
