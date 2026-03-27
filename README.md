@@ -2,7 +2,7 @@
 
 Company is an e-commerce company founded in 2019 that has since sold more than 28M dollars of popular electronics online. In this report, we will be exploring   
 
-**Sales Analysis:** Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Order Volume, and Average Order Value (AOV).  
+**Sales Analysis:** Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Average Order Value (AOV), and Order Count.  
 **Product Level Performance:** An analysis of Company's various product lines, understanding their impact on sales and returns.  
 **Loyalty Program Success:** An assessment of the loyalty program on customer retention and sales.  
 **Refund Rate:** An analysis of refunds   
@@ -51,4 +51,9 @@ Loyalty program has been successful, with net revenue generated for loyalty prog
 Refunds were made with much overlap during the revenue boon during the year 2020 and 2021, after which buyers are conservative with their purchasing and buy only what they needed. As such, from August 2021 to end of 2022, no refunds were requested by buyers. Of which, the bulk of revenue loss from refunds were from Macbook air (33%), gaming monitors (29%), and Apple Airpod (19%). However, by volume, the most refunded product is Apple Airpods accounting for 49% of the returned items. The least refunded products were the bose headphones followed by the Apple iphone. The former being niche in appeal while the latter having a functional necessity for everyday use. While the loyalty program issues slightly more refunds by volume, non-loyalty accounts for a larger share of revenue loss, representing 62% of all refunded revenue. Unsurprisingly, North America accounted for 56% of the refunds, followed by EMEA and APAC, paralleling Company's customer base. Most refunded items have a delivery time between 5-10 days, but at similar levels. As such, it is unlikely that delivery speed is a factor in any of the refunds. 
 
 # Recommendations
+- Consider expanding Apple line of products
+- Consider removing Bose
+- Prioritize US customer base, consider removing LATAM
+- Continue Loyalty Program. Incentivize conversion to join loyalty program. 
+- Boost marketing for Summer
 
