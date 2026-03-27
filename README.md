@@ -42,5 +42,8 @@ Company is an e-commerce company founded in 2019 that has since sold more than 2
 Gaming monitor accounts for 35% of the net revenue, followed by Apple Airpods at 27% and Macbook Air Laptop at 22%. The most popular order is the Apple Airpods, having sold 48,404 units. The least popular order is the Bose Soundsport Headphone, having only sold 27 units. Consequently, Apple is the most popular brand, accounting for to 50% of revenue and Bose at 0.01% respectively. 
 
 
-## Loyalty Porgram
+## Loyalty Program
+
+Loyalty program has been successful, with net revenue generated for loyalty program customers up 613% compared to that of no-program customers after one year in effect. Following 2020 revenue boon, loyalty program still exhibits benefits in retaining customers by way of increasing order count, outperforming non-program customers for all subsequent years. 
+
 ## Refund Rate
