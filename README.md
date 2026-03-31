@@ -51,7 +51,7 @@ Refunds were made with much overlap during the revenue boon during the year 2020
 # Recommendations
 
 **Expansion of Apple Product Line**
-<img width="887" height="452" alt="image" src="https://github.com/user-attachments/assets/966baff6-a1fb-4bd6-86b5-3db31d4cdcdb" />
+<img width="567" height="740" alt="image" src="https://github.com/user-attachments/assets/b8e4339b-c10a-444f-adc2-d7dd3fe7c42b" />
 
 Based on brand comparisons by revenue, Apple has consistently outsold all other brand products year after year since 2019, with 27% of Company's revenue coming from Airpods and 22% coming from Macbook. Accounting for nearly 50% of Company's total revenue coming from Apple products alone between the years 2019-2022, Apple consumption demands is remarkably high and sticky. Even with demand falling post-2020 with increased supply competition, the strong preference of Apple still outweighs other product line, demonstrating a substantial brand loyalty. Capitalizing on the Apple brand and image by selling more of their highyly demanded products would suggest a likely boost to revenue growth.  
 
