@@ -15,6 +15,9 @@ Company is an e-commerce company founded in 2019 that has since sold more than 2
 
 # Deep Dive Insight
 ## Sales Analysis
+<img width="1416" height="807" alt="image" src="https://github.com/user-attachments/assets/5a9a8002-574b-4e47-aa7e-87a9c6a0186d" />
+<img width="1425" height="808" alt="image" src="https://github.com/user-attachments/assets/e5d86e3a-e26c-4f98-912d-15ae4e70b722" />
+<img width="1417" height="817" alt="image" src="https://github.com/user-attachments/assets/359983ac-ec7e-49ff-9aec-6e58616aa9ca" />
 
 <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/070ad8b5-8c32-4673-8e30-50f2098c2935" />
 
