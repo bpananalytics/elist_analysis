@@ -35,7 +35,7 @@ Company is an e-commerce company founded in 2019 that has since sold more than 2
 - Seasonality: Order Count experiences dips in February and October, likely due to end of holiday season in February and end of summer purchases in October respectively. 
 
 ## Product Trend
-<img width="581" height="806" alt="image" src="https://github.com/user-attachments/assets/5148a4bd-1f73-4705-9042-75510decdb6c" />
+<img width="567" height="740" alt="image" src="https://github.com/user-attachments/assets/4fb7b5b2-35b5-4ea1-9b9e-2abb10b53dfc" />
 
 Gaming monitor accounts for 35% of the net revenue, followed by Apple Airpods at 27% and Macbook Air Laptop at 22%. The most popular order is the Apple Airpods, having sold 48,404 units. The least popular order is the Bose Soundsport Headphone, having only sold 27 units. Consequently, Apple is the most popular brand, accounting for to 50% of revenue and Bose at 0.01% respectively. 
 
@@ -51,11 +51,13 @@ Refunds were made with much overlap during the revenue boon during the year 2020
 # Recommendations
 
 **Expansion of Apple Product Line**
-<img width="567" height="740" alt="image" src="https://github.com/user-attachments/assets/b8e4339b-c10a-444f-adc2-d7dd3fe7c42b" />
+<img width="887" height="452" alt="image" src="https://github.com/user-attachments/assets/888f59c2-596f-4728-8b12-5594d62dd493" />
 
 Based on brand comparisons by revenue, Apple has consistently outsold all other brand products year after year since 2019, with 27% of Company's revenue coming from Airpods and 22% coming from Macbook. Accounting for nearly 50% of Company's total revenue coming from Apple products alone between the years 2019-2022, Apple consumption demands is remarkably high and sticky. Even with demand falling post-2020 with increased supply competition, the strong preference of Apple still outweighs other product line, demonstrating a substantial brand loyalty. Capitalizing on the Apple brand and image by selling more of their highyly demanded products would suggest a likely boost to revenue growth.  
 
-**Removal of Bose**
+**Removal of Bose Product Line**
+<img width="772" height="137" alt="image" src="https://github.com/user-attachments/assets/39ac1185-0e9a-4f7a-ab0f-d7d2646af7bd" />
+Bose has experienced negative growth rate in revenue over the years, with staggering 91% revenue contraction in 2022 compared to 2021, of which also experienced a substantial revenue contraction. Removal of the Bose product line will result in better catering to shifting consumer demands and open valuable operational resources and capacity towards better selling more profitable brands like Apple. With the year over year declining trend for Bose, this would be a conservative choice that can be safely made to increase the bottom line. 
 
 **Center Customer Base**
 
