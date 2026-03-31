@@ -19,12 +19,6 @@ Company is an e-commerce company founded in 2019 that has since sold more than 2
 <img width="1425" height="808" alt="image" src="https://github.com/user-attachments/assets/e5d86e3a-e26c-4f98-912d-15ae4e70b722" />
 <img width="1417" height="817" alt="image" src="https://github.com/user-attachments/assets/359983ac-ec7e-49ff-9aec-6e58616aa9ca" />
 
-<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/070ad8b5-8c32-4673-8e30-50f2098c2935" />
-
-<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/81722204-4808-4f2c-b45f-4bd0cbcb83a6" />
-
-<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/4f680fc7-9aa2-4275-8007-9cc0e47d724b" />
-
 ### Sales Revenue
 - Overview: 2020 marked with incredible revenue growth, up 62% of previous year's revenue. Subsequent years show gradual return to previous levels, suggesting lockdown as a contributing factor to revenue surge.
 - Geography: North America leads in regional sales, with US making 60% of total revenue.
@@ -41,6 +35,7 @@ Company is an e-commerce company founded in 2019 that has since sold more than 2
 - Seasonality: Order Count experiences dips in February and October, likely due to end of holiday season in February and end of summer purchases in October respectively. 
 
 ## Product Trend
+<img width="581" height="806" alt="image" src="https://github.com/user-attachments/assets/5148a4bd-1f73-4705-9042-75510decdb6c" />
 
 Gaming monitor accounts for 35% of the net revenue, followed by Apple Airpods at 27% and Macbook Air Laptop at 22%. The most popular order is the Apple Airpods, having sold 48,404 units. The least popular order is the Bose Soundsport Headphone, having only sold 27 units. Consequently, Apple is the most popular brand, accounting for to 50% of revenue and Bose at 0.01% respectively. 
 
