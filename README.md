@@ -58,6 +58,7 @@ Based on brand comparisons by revenue, Apple has consistently outsold all other 
 **Removal of Bose Product Line**
 
 <img width="772" height="137" alt="image" src="https://github.com/user-attachments/assets/39ac1185-0e9a-4f7a-ab0f-d7d2646af7bd" />
+
 Bose has experienced negative growth rate in revenue over the years, with staggering 91% revenue contraction in 2022 compared to 2021, of which also experienced a substantial revenue contraction. Removal of the Bose product line will result in better catering to shifting consumer demands and open valuable operational resources and capacity towards better selling more profitable brands like Apple. With the year over year declining trend for Bose, this would be a conservative choice that can be safely made to increase the bottom line. 
 
 **Center Customer Base**
