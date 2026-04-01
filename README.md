@@ -20,19 +20,19 @@ Company is an e-commerce company founded in 2019 that has since sold more than 2
 <img width="1417" height="817" alt="image" src="https://github.com/user-attachments/assets/359983ac-ec7e-49ff-9aec-6e58616aa9ca" />
 
 ### Sales Revenue
-- Overview: 2020 marked with incredible revenue growth, up 62% of previous year's revenue. Subsequent years show gradual return to previous levels, suggesting lockdown as a contributing factor to revenue surge.
-- Geography: North America leads in regional sales, with US making 60% of total revenue.
-- Seasonality: Q3 consistently records stronger revenue performance, likely driven by seasonaly increase in AOV for the months of July, August, and September. 
+- **Overview**: 2020 marked with incredible revenue growth, up 62% of previous year's revenue. Subsequent years show gradual return to previous levels, suggesting lockdown as a contributing factor to revenue surge.
+- **Geography**: North America leads in regional sales, with US making 60% of total revenue.
+- **Seasonality**: Q3 consistently records stronger revenue performance, likely driven by seasonaly increase in AOV for the months of July, August, and September. 
 
 ### Average Order Value (AOV)
-- Overview: AOV grew by 30% in 2020, but returned to 2019 levels by 2022. Market contraction of lockdown accessible suppliers may be contributing factor to AOV growth, with associated market expansion of suppliers related to AOV decline.
-- Geography: APAC has the highest AOV. But by country, VG leads in AOV for all sales in the time frame of 2019-2022. 
-- Seasonality: Q3 has high AOV performance, likely driven by summer purchases and increased seasonal purchasing activity.  
+- **Overview**: AOV grew by 30% in 2020, but returned to 2019 levels by 2022. Market contraction of lockdown accessible suppliers may be contributing factor to AOV growth, with associated market expansion of suppliers related to AOV decline.
+- **Geography**: APAC has the highest AOV. But by country, VG leads in AOV for all sales in the time frame of 2019-2022. 
+- **Seasonality**: Q3 has high AOV performance, likely driven by summer purchases and increased seasonal purchasing activity.  
 
 ### Order Count 
-- Overview: Number of Orders experienced dramatic increase in 2020, followed by gradual increase in 2021 and return towards 2019 levels by 2022.
-- Geography: North America outperforms all other regions in order count, of which US contributes to 60% of all orders. EMEA is next best performer, with GB accounting for 10% of all orders.
-- Seasonality: Order Count experiences dips in February and October, likely due to end of holiday season in February and end of summer purchases in October respectively. 
+- **Overview**: Number of Orders experienced dramatic increase in 2020, followed by gradual increase in 2021 and return towards 2019 levels by 2022.
+- **Geography**: North America outperforms all other regions in order count, of which US contributes to 60% of all orders. EMEA is next best performer, with GB accounting for 10% of all orders.
+- **Seasonality**: Order Count experiences dips in February and October, likely due to end of holiday season in February and end of summer purchases in October respectively. 
 
 ## Product Trend
 <img width="567" height="740" alt="image" src="https://github.com/user-attachments/assets/4fb7b5b2-35b5-4ea1-9b9e-2abb10b53dfc" />
