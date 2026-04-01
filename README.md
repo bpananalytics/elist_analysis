@@ -53,6 +53,7 @@ Loyalty program has been successful, with net revenue generated for loyalty prog
 <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/ec3410ba-3446-464c-8683-8faa219ce755" />
 
 Refunds were made with much overlap during the revenue boon during the year 2020 and 2021, after which buyers are conservative with their purchasing and buy only what they needed. As such, from August 2021 to end of 2022, no refunds were requested by buyers. Of which, the bulk of revenue loss from refunds were from Macbook air (33%), gaming monitors (29%), and Apple Airpod (19%). However, by volume, the most refunded product is Apple Airpods accounting for 49% of the returned items. The least refunded products were the bose headphones followed by the Apple iphone. The former being niche in appeal while the latter having a functional necessity for everyday use. While the loyalty program issues slightly more refunds by volume, non-loyalty accounts for a larger share of revenue loss, representing 62% of all refunded revenue. Unsurprisingly, North America accounted for 56% of the refunds, followed by EMEA and APAC, paralleling Company's customer base. Most refunded items have a delivery time between 5-10 days, but at similar levels. As such, it is unlikely that delivery speed is a factor in any of the refunds. 
+  Interesting to note however, refunds were absent from the data following 2021, which could suggest improper documentation or a processing issue with billing. Absence of this data may skew the analysis for refunds and hence may not capture the entire picture. Additional research into procedural documentation and billing confirmation may be suggested to better understand whether or not the analysis may be missing information. 
 
 # Recommendations
 
@@ -78,12 +79,10 @@ Of the highest performers, Company has 61% of revenue tied to US consumer base. 
 
 <img width="1822" height="383" alt="image" src="https://github.com/user-attachments/assets/69baf268-81ab-49a8-920d-8b45fee7e9d1" />
 
-
 By 2022, Loyalty Program customers has outperformed Non-loyalty customers on all marks for revenue, AOV, and order count. Loyalty Program customers are making more orders at higher value points than non-loyal customers. This has demonstrated success in the loyalty program, with 2021 being a pivotal year where consumers have adapted, embraced, and sees value in using the program. To capitalize on this effect more, Company should consider boosting enrollment in this program and incentivize new patrons to join. 
 
 **Optimize Summer marketing**
 
 <img width="1806" height="351" alt="image" src="https://github.com/user-attachments/assets/d009ff67-2ed5-43ea-a0e1-5789613c7805" />
-
 
 Summer, marked by the months of July, August, and September show upward trajectory on Revenue, AOV, and Order Count. This suggests that consumer are more apt to spend and make purchases during Q3 months of high activity. Preparing marketing campaigns geared towards this season will capture consumer demands during their time of least resistance to purchasing. 
