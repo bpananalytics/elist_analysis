@@ -2,13 +2,14 @@
 
 E-List Electronics is a global online retailer focused on consumer electronics, offering products such as laptops, smartphones, monitors, and headphones. Established in 2018, the company runs a digital marketplace that features a broad range of items from multiple manufacturers and third-party sellers. Operating across North America, EMEA, APAC, and LATAM, E-List’s key priorities include growing its international presence, enhancing marketing effectiveness, and boosting customer loyalty through a rewards program.
 
-**Sales Analysis:** Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Average Order Value (AOV), and Order Count.  
-**Product Level Performance:** An analysis of Company's various product lines, understanding their impact on sales and returns.  
-**Loyalty Program Success:** An assessment of the loyalty program on customer retention and sales.  
-**Refund Rate:** An analysis of refunds from purchases   
+- **Sales Analysis:** Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Average Order Value (AOV), and Order Count.  
+- **Product Level Performance:** An analysis of Company's various product lines, understanding their impact on sales and returns.  
+- **Loyalty Program Success:** An assessment of the loyalty program on customer retention and sales.  
+- **Refund Rate:** An analysis of refunds from purchases   
 
-# Overview
+# Overview of Findings 
 
+- Insert Dashboard
 
 ## ERD Diagram
 
