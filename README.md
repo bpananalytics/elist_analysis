@@ -64,7 +64,21 @@ Based on brand comparisons by revenue, Apple has consistently outsold all other 
 Bose has experienced negative growth rate in revenue over the years, with staggering 91% revenue contraction in 2022 compared to 2021, of which also experienced a substantial revenue contraction. Removal of the Bose product line will result in better catering to shifting consumer demands and open valuable operational resources and capacity towards better selling more profitable brands like Apple. With the year over year declining trend for Bose, this would be a conservative choice that can be safely made to increase the bottom line. 
 
 **Center Customer Base**
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/73554ab4-c039-47ef-bdca-b0d23519e434" />
+
+Of the highest performers, Company has 61% of revenue tied to US consumer base. This suggests that specializing towards a specific demographic like the US may enable further market penetration and allow for better allocation of logistical resources such as currency exchange, shipping, and localization. 
 
 **Boost Loyalty Program**
 
+<img width="778" height="484" alt="image" src="https://github.com/user-attachments/assets/62c488c0-8cdc-4fec-92e1-86bea12fd2a8" />
+<img width="752" height="484" alt="image" src="https://github.com/user-attachments/assets/1505d9e0-c114-4263-908d-f59798ae6494" />
+<img width="752" height="484" alt="image" src="https://github.com/user-attachments/assets/4a267d28-215c-4a46-ba10-d34a0812b51b" />
+
+By 2022, Loyalty Program customers has outperformed Non-loyalty customers on all marks for revenue, AOV, and order count. Loyalty Program customers are making more orders at higher value points than non-loyal customers. This has demonstrated success in the loyalty program, with 2021 being a pivotal year where consumers have adapted, embraced, and sees value in using the program. To capitalize on this effect more, Company should consider boosting enrollment in this program and incentivize new patrons to join. 
+
 **Optimize Summer marketing**
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/5572c8c5-6acc-4736-ab2d-f3c985170721" />
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/47386f37-e4de-4388-8a58-637b5388d068" />
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/2cef9f7e-9c23-4eaa-b66c-5d8f4e1eba99" />
+
+Summer, marked by the months of July, August, and September show upward trajectory on Revenue, AOV, and Order Count. This suggests that consumer are more apt to spend and make purchases during Q3 months of high activity. Preparing marketing campaigns geared towards this season will capture consumer demands during their time of least resistance to purchasing. 
