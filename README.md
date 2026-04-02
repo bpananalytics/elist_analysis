@@ -45,13 +45,13 @@ Gaming monitor accounts for 35% of the net revenue, followed by Apple Airpods at
 
 ## Loyalty Program
 
-<img width="778" height="484" alt="image" src="https://github.com/user-attachments/assets/de04cedc-900f-4cfd-ada8-5f7298a5c13f" />
+<img width="778" height="484" alt="image" src="https://github.com/user-attachments/assets/97408b2a-83b2-4a5c-82b9-232c5a591a41" />
 
 Loyalty program has been successful, with net revenue generated for loyalty program customers up 613% compared to that of no-program customers after one year in effect. Following 2020 revenue boon, loyalty program still exhibits benefits in retaining customers by way of increasing order count, outperforming non-program customers for all subsequent years. During the active months of the refund activity, an estimate of $74k worth of products were regularly refunded on a monthly basis. 
 
 ## Refund Rate
 
-<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/ec3410ba-3446-464c-8683-8faa219ce755" />
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/1508526c-2115-4e28-a6d9-08fb74f0030e" />
 
 Refunds were made with much overlap during the revenue boon during the year 2020 and 2021, after which buyers are conservative with their purchasing and buy only what they needed. As such, from August 2021 to end of 2022, no refunds were requested by buyers. Of which, the bulk of revenue loss from refunds were from Macbook air (33%), gaming monitors (29%), and Apple Airpod (19%). However, by volume, the most refunded product is Apple Airpods accounting for 49% of the returned items. The least refunded products were the bose headphones followed by the Apple iphone. The former being niche in appeal while the latter having a functional necessity for everyday use. While the loyalty program issues slightly more refunds by volume, non-loyalty accounts for a larger share of revenue loss, representing 62% of all refunded revenue. Unsurprisingly, North America accounted for 56% of the refunds, followed by EMEA and APAC, paralleling Company's customer base. Most refunded items have a delivery time between 5-10 days, but at similar levels. As such, it is unlikely that delivery speed is a factor in any of the refunds. 
   Interesting to note however, refunds were absent from the data following 2021, which could suggest improper documentation or a processing issue with billing. Absence of this data may skew the analysis for refunds and hence may not capture the entire picture. Additional research into procedural documentation and billing confirmation may be suggested to better understand whether or not the analysis may be missing information. 
@@ -60,7 +60,7 @@ Refunds were made with much overlap during the revenue boon during the year 2020
 
 **Expansion of Apple Product Line**
 
-<img width="887" height="452" alt="image" src="https://github.com/user-attachments/assets/888f59c2-596f-4728-8b12-5594d62dd493" />
+<img width="887" height="452" alt="image" src="https://github.com/user-attachments/assets/11bec084-79ba-4114-8cbf-d90a1bc71636" />
 
 Based on brand comparisons by revenue, Apple has consistently outsold all other brand products year after year since 2019, with 27% of Company's revenue coming from Airpods and 22% coming from Macbook. Accounting for nearly 50% of Company's total revenue coming from Apple products alone between the years 2019-2022, Apple consumption demands is remarkably high and sticky. Even with demand falling post-2020 with increased supply competition, the strong preference of Apple still outweighs other product line, demonstrating a substantial brand loyalty. Capitalizing on the Apple brand and image by selling more of their highyly demanded products would suggest a likely boost to revenue growth.  
 
@@ -72,13 +72,13 @@ Bose has experienced negative growth rate in revenue over the years, with stagge
 
 **Center Customer Base**
 
-<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/73554ab4-c039-47ef-bdca-b0d23519e434" />
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/4127f597-a10f-4613-9635-0c3e688516bd" />
 
 Of the highest performers, Company has 61% of revenue tied to US consumer base. This suggests that specializing towards a specific demographic like the US may enable further market penetration and allow for better allocation of logistical resources such as currency exchange, shipping, and localization. 
 
 **Boost Loyalty Program**
 
-<img width="1822" height="383" alt="image" src="https://github.com/user-attachments/assets/69baf268-81ab-49a8-920d-8b45fee7e9d1" />
+<img width="1817" height="383" alt="image" src="https://github.com/user-attachments/assets/24c48754-6428-4ec3-839f-3c6447ce8fee" />
 
 By 2022, Loyalty Program customers has outperformed Non-loyalty customers on all marks for revenue, AOV, and order count. Loyalty Program customers are making more orders at higher value points than non-loyal customers. This has demonstrated success in the loyalty program, with 2021 being a pivotal year where consumers have adapted, embraced, and sees value in using the program. To capitalize on this effect more, Company should consider boosting enrollment in this program and incentivize new patrons to join. 
 
