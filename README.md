@@ -18,7 +18,7 @@ E-List Electronics is a global online retailer focused on consumer electronics, 
 # Deep Dive Insight
 ## Sales Analysis
 
-<img width="1818" height="372" alt="image" src="https://github.com/user-attachments/assets/56094e9f-0455-4d81-a1ae-8afb74af195d" />
+<img width="1821" height="363" alt="image" src="https://github.com/user-attachments/assets/733b633b-edec-47d6-a8dd-300647bf25fd" />
 
 
 ### Sales Revenue
@@ -84,6 +84,6 @@ By 2022, Loyalty Program customers has outperformed Non-loyalty customers on all
 
 **Optimize Summer marketing**
 
-<img width="1806" height="351" alt="image" src="https://github.com/user-attachments/assets/d009ff67-2ed5-43ea-a0e1-5789613c7805" />
+<img width="1802" height="347" alt="image" src="https://github.com/user-attachments/assets/722ff278-0ffc-46b9-96da-2f89b00a0ae0" />
 
 Summer, marked by the months of July, August, and September show upward trajectory on Revenue, AOV, and Order Count. This suggests that consumer are more apt to spend and make purchases during Q3 months of high activity. Preparing marketing campaigns geared towards this season will capture consumer demands during their time of least resistance to purchasing. 
