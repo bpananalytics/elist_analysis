@@ -45,7 +45,7 @@ Gaming monitor accounts for 35% of the net revenue, followed by Apple Airpods at
 
 ## Loyalty Program
 
-<img width="1393" height="843" alt="image" src="https://github.com/user-attachments/assets/439513db-e743-4f37-9b7b-2b6bb6c57559" />
+<img width="1393" height="827" alt="image" src="https://github.com/user-attachments/assets/2ae7d774-3b33-454f-a785-9555077ff1ae" />
 
 <img width="778" height="484" alt="image" src="https://github.com/user-attachments/assets/97408b2a-83b2-4a5c-82b9-232c5a591a41" />
 
