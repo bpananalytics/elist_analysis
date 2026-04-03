@@ -45,6 +45,8 @@ Gaming monitor accounts for 35% of the net revenue, followed by Apple Airpods at
 
 ## Loyalty Program
 
+<img width="1217" height="748" alt="image" src="https://github.com/user-attachments/assets/d7e236fb-ebe5-40cc-8c73-4267b838f10f" />
+
 <img width="778" height="484" alt="image" src="https://github.com/user-attachments/assets/97408b2a-83b2-4a5c-82b9-232c5a591a41" />
 
 Loyalty program has been successful, with net revenue generated for loyalty program customers up 613% compared to that of no-program customers after one year in effect. Following 2020 revenue boon, loyalty program still exhibits benefits in retaining customers by way of increasing order count, outperforming non-program customers for all subsequent years. During the active months of the refund activity, an estimate of $74k worth of products were regularly refunded on a monthly basis. 
