@@ -7,11 +7,6 @@ E-List Electronics is a global online retailer focused on consumer electronics, 
 - **Loyalty Program Success:** An assessment of the loyalty program on customer retention and sales.  
 - **Refund Rate:** An analysis of refunds from purchases   
 
-## ERD Diagram
-
-<img width="835" height="477" alt="image" src="https://github.com/user-attachments/assets/37befe8e-a928-4160-9d1e-868609b0ce78" />
-
-
 ## Sales Overview
 
 <img width="1821" height="363" alt="image" src="https://github.com/user-attachments/assets/733b633b-edec-47d6-a8dd-300647bf25fd" />
@@ -41,6 +36,16 @@ While these three values are observed across different layers, analysis of the d
 - **Seasonality**: Order Count experiences dips in February and October, likely due to end of holiday season in February and end of summer purchases in October respectively. 
 
 # Deep Dive Insight
+
+## ERD Diagram
+
+<img width="835" height="477" alt="image" src="https://github.com/user-attachments/assets/37befe8e-a928-4160-9d1e-868609b0ce78" />
+
+The dataset contains 108,000 entries for purchases made by customers over the time span of 2019 to 2022. Because Company is an international business, all purchases have been converted to USD for standardization. Within this analysis, several assumptions are being made.
+
+- Currency exchange is negligible in conversion of other currencies to USD equivalent.
+- Inflation factors and interactions with transacted currencies are assumed negligble within the time span of four years.
+- Revenue recognized by the order reflects the value of the product solely and does not include any undisclosed fees, taxes, or surcharges.  
 
 ## Product Trend
 
