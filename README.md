@@ -78,7 +78,7 @@ Refunds were made with much overlap during the revenue boon during the year 2020
 
 **Expansion of Apple Product Line**
 
-<img width="887" height="452" alt="image" src="https://github.com/user-attachments/assets/11bec084-79ba-4114-8cbf-d90a1bc71636" />
+<img width="887" height="452" alt="image" src="https://github.com/user-attachments/assets/c0c28890-6292-49b5-8615-da124ca3115c" />
 
 Based on brand comparisons by revenue, Apple has consistently outsold all other brand products year after year since 2019, with 27% of Company's revenue coming from Airpods and 22% coming from Macbook. Accounting for nearly 50% of Company's total revenue coming from Apple products alone between the years 2019-2022, Apple consumption demands is remarkably high and sticky. Even with demand falling post-2020 with increased supply competition, the strong preference of Apple still outweighs other product line, demonstrating a substantial brand loyalty. Capitalizing on the Apple brand and image by selling more of their highyly demanded products would suggest a likely boost to revenue growth.  
 
@@ -90,7 +90,7 @@ Bose has experienced negative growth rate in revenue over the years, with stagge
 
 **Center Customer Base**
 
-<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/4127f597-a10f-4613-9635-0c3e688516bd" />
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/e4337df8-ed15-4e2f-b93f-29a011c2a2e6" />
 
 Of the highest performers, Company has 61% of revenue tied to US consumer base. This suggests that specializing towards a specific demographic like the US may enable further market penetration and allow for better allocation of logistical resources such as currency exchange, shipping, and localization. 
 
