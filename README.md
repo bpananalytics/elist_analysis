@@ -18,7 +18,7 @@ To better understand Company performance on sales, we focus on three north star 
 - **Average Order Value (AOV**) is the aggregate value of each month's orders in USD, averaged out per order. It highlights the market basket of an average consumer. 
 - **Order Count** or Units Sold is the count of orders having been purchased in any given month. 
 
-While these three values are observed across different layers, analysis of the data set generally shows that revenue highly correlated with order count, and barring later specified cases, either may be interchangeable in demonstrating positive or negative sales performance. 
+While these three metrics are observed across different layers of data, further analysis of the dataset reveal revenue highly correlated with order count. As such, either are interchangeable in demonstrating positive or negative sales performance. 
 
 ### Sales Revenue
 - **Overview**: 2020 marked with incredible revenue growth, up 62% of previous year's revenue. Subsequent years show gradual return to previous levels, suggesting lockdown as a contributing factor to revenue surge.
@@ -53,7 +53,7 @@ The dataset contains 108,000 entries for purchases made by customers over the ti
 
 Among brands, Apple dominates in sales, accounting for 50% of total revenue across the entire time period from 2019 to 2022. Part of this market dominance may be attributed to Company's diverse shelf of products like the Airpods, the Macbook, and the iPhone; the former two being the most popular product of the Brand. By order count, Airpod headphones outperforms all other products with 48,000 units sold, with the next popular product being the no-brand gaming monitor which sold 23,000 units. However, it should be noted that by revenue, the order placement for these two products are reversed, where the gaming monitor is sold at a greater pricepoint and hence generates more revenue than the Airpod headphones. 
 
-<img width="677" height="232" alt="image" src="https://github.com/user-attachments/assets/c4ed0640-1b9c-4357-a571-082ff1d9bada" />
+<img width="650" height="237" alt="image" src="https://github.com/user-attachments/assets/f17db452-67d1-470c-a20e-e7dd0fd01eaa" />
 
 While the airpods and gaming monitor take first place for order count and gross revenue respectively, the least popular order and least revenue-producing product is the Bose Soundsport Headphone, having only sold 27 units for $3,000 over four years. The soundsport headphone underperforms the Airpod headphone by a huge margin, highlighting the stark contrasting behavior. While the case can be made that inclusion  of the Bose headphone may inadvertantly upsell the Apple Airpod, assuming a perfect competition market online, it is unlikely that this may be the case since the effect is diluted by presence of many other online retailers who also sell headphones for competitive prcies.  
 
@@ -69,7 +69,7 @@ Looking more closely to performance, the loyalty program has experienced a few s
 
 ## Refund Rate
 
-<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/1508526c-2115-4e28-a6d9-08fb74f0030e" />
+<img width="1235" height="736" alt="image" src="https://github.com/user-attachments/assets/5ec7ed08-2b8d-44e0-af98-25ae868cbe2d" />
 
 Refunds were made with much overlap during the revenue boon during the year 2020 and 2021, after which buyers are conservative with their purchasing and buy only what they needed. As such, from August 2021 to end of 2022, no refunds were requested by buyers. Of which, the bulk of revenue loss from refunds were from Macbook air (33%), gaming monitors (29%), and Apple Airpod (19%). However, by volume, the most refunded product is Apple Airpods accounting for 49% of the returned items. The least refunded products were the bose headphones followed by the Apple iphone. The former being niche in appeal while the latter having a functional necessity for everyday use. While the loyalty program issues slightly more refunds by volume, non-loyalty accounts for a larger share of revenue loss, representing 62% of all refunded revenue. Unsurprisingly, North America accounted for 56% of the refunds, followed by EMEA and APAC, paralleling Company's customer base. Most refunded items have a delivery time between 5-10 days, but at similar levels. As such, it is unlikely that delivery speed is a factor in any of the refunds. 
   Interesting to note however, refunds were absent from the data following 2021, which could suggest improper documentation or a processing issue with billing. Absence of this data may skew the analysis for refunds and hence may not capture the entire picture. Additional research into procedural documentation and billing confirmation may be suggested to better understand whether or not the analysis may be missing information. 
