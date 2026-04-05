@@ -11,11 +11,19 @@ E-List Electronics is a global online retailer focused on consumer electronics, 
 
 <img width="835" height="477" alt="image" src="https://github.com/user-attachments/assets/37befe8e-a928-4160-9d1e-868609b0ce78" />
 
-# Deep Dive Insight
-## Sales Analysis
+
+## Sales Overview
 
 <img width="1821" height="363" alt="image" src="https://github.com/user-attachments/assets/733b633b-edec-47d6-a8dd-300647bf25fd" />
 
+### North Star Metrics
+To better understand Company performance on sales, we focus on three north star metrics. 
+
+**Revenue** is the aggregate value of each customer order made within a given month, converted to USD if in other currencies. 
+**Average Order Value (AOV**) is the aggregate value of each month's orders in USD, averaged out per order. It highlights the market basket of an average consumer. 
+**Order Count** or Units Sold is the count of orders having been purchased in any given month. 
+
+While these three values are observed across different layers, analysis of the data set generally shows that revenue highly correlated with order count, and barring later specified cases, either may be interchangeable in demonstrating positive or negative sales performance. 
 
 ### Sales Revenue
 - **Overview**: 2020 marked with incredible revenue growth, up 62% of previous year's revenue. Subsequent years show gradual return to previous levels, suggesting lockdown as a contributing factor to revenue surge.
@@ -31,6 +39,8 @@ E-List Electronics is a global online retailer focused on consumer electronics, 
 - **Overview**: Number of Orders experienced dramatic increase in 2020, followed by gradual increase in 2021 and return towards 2019 levels by 2022.
 - **Geography**: North America outperforms all other regions in order count, of which US contributes to 60% of all orders. EMEA is next best performer, with GB accounting for 10% of all orders.
 - **Seasonality**: Order Count experiences dips in February and October, likely due to end of holiday season in February and end of summer purchases in October respectively. 
+
+# Deep Dive Insight
 
 ## Product Trend
 
