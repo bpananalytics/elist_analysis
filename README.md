@@ -19,9 +19,9 @@ E-List Electronics is a global online retailer focused on consumer electronics, 
 ### North Star Metrics
 To better understand Company performance on sales, we focus on three north star metrics. 
 
-**Revenue** is the aggregate value of each customer order made within a given month, converted to USD if in other currencies. 
-**Average Order Value (AOV**) is the aggregate value of each month's orders in USD, averaged out per order. It highlights the market basket of an average consumer. 
-**Order Count** or Units Sold is the count of orders having been purchased in any given month. 
+- **Revenue** is the aggregate value of each customer order made within a given month, converted to USD if in other currencies. 
+- **Average Order Value (AOV**) is the aggregate value of each month's orders in USD, averaged out per order. It highlights the market basket of an average consumer. 
+- **Order Count** or Units Sold is the count of orders having been purchased in any given month. 
 
 While these three values are observed across different layers, analysis of the data set generally shows that revenue highly correlated with order count, and barring later specified cases, either may be interchangeable in demonstrating positive or negative sales performance. 
 
@@ -56,10 +56,11 @@ While the airpods and gaming monitor take first place for order count and gross 
 
 <img width="1393" height="827" alt="image" src="https://github.com/user-attachments/assets/2ae7d774-3b33-454f-a785-9555077ff1ae" />
 
-Loyalty program has been successful, with net revenue generated for loyalty program customers up 613% compared to that of no-program customers after one year in effect. Following 2020 revenue boon, loyalty program still exhibits benefits in retaining customers by way of increasing order count, outperforming non-program customers for all subsequent years. During the active months of the refund activity, an estimate of $74k worth of products were regularly refunded on a monthly basis. 
+The loyalty program has seen an upward trend in revenue, contrast to purchasing behavior of non-loyalty customers. Net revenue generated for loyalty program customers up 613% in 2020, just one year into effect. Following 2020 revenue boon, loyalty program still exhibits benefits in retaining customers, with greater order counts coming from loyalty program than that of non-loyalty customers for consecutive years of 2021 and 2022. As such, the loyalty program has demonstrated a positive trend towards better sales performance.  
 
 <img width="1397" height="818" alt="image" src="https://github.com/user-attachments/assets/860f6ad9-2aee-40bb-bfd5-58b2d20aca5f" />
 
+Looking more closely to performance, the loyalty program has experienced a few successes, in which Apple Airpods and Samsung Webcam has more buyers coming from the loyalty program than not. This demonstrates early success in the program, especially for Apple Airpods which accounts for second-most revenue generating item for the Company. More than half of this highly sought product is accounted for by loyalty customers. 
 
 ## Refund Rate
 
