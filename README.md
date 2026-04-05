@@ -38,18 +38,22 @@ E-List Electronics is a global online retailer focused on consumer electronics, 
 
 ## Product Trend
 
-<img width="567" height="740" alt="image" src="https://github.com/user-attachments/assets/4fb7b5b2-35b5-4ea1-9b9e-2abb10b53dfc" />
+<img width="1433" height="798" alt="image" src="https://github.com/user-attachments/assets/4946583f-f921-4fe2-a816-aee5f3270ef3" />
 
-Gaming monitor accounts for 35% of the net revenue, followed by Apple Airpods at 27% and Macbook Air Laptop at 22%. The most popular order is the Apple Airpods, having sold 48,404 units. The least popular order is the Bose Soundsport Headphone, having only sold 27 units. Consequently, Apple is the most popular brand, accounting for to 50% of revenue and Bose at 0.01% respectively. 
+Among brands, Apple dominates in sales, accounting for 50% of total revenue across the entire time period from 2019 to 2022. Part of this market dominance may be attributed to Company's diverse shelf of products like the Airpods, the Macbook, and the iPhone; the former two being the most popular product of the Brand. By order count, Airpod headphones outperforms all other products with 48,000 units sold, with the next popular product being the no-brand gaming monitor which sold 23,000 units. However, it should be noted that by revenue, the order placement for these two products are reversed, where the gaming monitor is sold at a greater pricepoint and hence generates more revenue than the Airpod headphones. 
 
+<img width="677" height="232" alt="image" src="https://github.com/user-attachments/assets/c4ed0640-1b9c-4357-a571-082ff1d9bada" />
+
+While the airpods and gaming monitor take first place for order count and gross revenue respectively, the least popular order and least revenue-producing product is the Bose Soundsport Headphone, having only sold 27 units for $3,000 over four years. The soundsport headphone underperforms the Airpod headphone by a huge margin, highlighting the stark contrasting behavior. While the case can be made that inclusion  of the Bose headphone may inadvertantly upsell the Apple Airpod, assuming a perfect competition market online, it is unlikely that this may be the case since the effect is diluted by presence of many other online retailers who also sell headphones for competitive prcies.  
 
 ## Loyalty Program
 
 <img width="1393" height="827" alt="image" src="https://github.com/user-attachments/assets/2ae7d774-3b33-454f-a785-9555077ff1ae" />
 
-<img width="778" height="484" alt="image" src="https://github.com/user-attachments/assets/97408b2a-83b2-4a5c-82b9-232c5a591a41" />
-
 Loyalty program has been successful, with net revenue generated for loyalty program customers up 613% compared to that of no-program customers after one year in effect. Following 2020 revenue boon, loyalty program still exhibits benefits in retaining customers by way of increasing order count, outperforming non-program customers for all subsequent years. During the active months of the refund activity, an estimate of $74k worth of products were regularly refunded on a monthly basis. 
+
+<img width="1397" height="818" alt="image" src="https://github.com/user-attachments/assets/860f6ad9-2aee-40bb-bfd5-58b2d20aca5f" />
+
 
 ## Refund Rate
 
