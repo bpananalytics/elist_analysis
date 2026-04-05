@@ -7,10 +7,6 @@ E-List Electronics is a global online retailer focused on consumer electronics, 
 - **Loyalty Program Success:** An assessment of the loyalty program on customer retention and sales.  
 - **Refund Rate:** An analysis of refunds from purchases   
 
-# Overview of Findings 
-
-- Insert Dashboard
-
 ## ERD Diagram
 
 <img width="835" height="477" alt="image" src="https://github.com/user-attachments/assets/37befe8e-a928-4160-9d1e-868609b0ce78" />
