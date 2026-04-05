@@ -59,11 +59,11 @@ While the airpods and gaming monitor take first place for order count and gross 
 
 ## Loyalty Program
 
-<img width="1393" height="827" alt="image" src="https://github.com/user-attachments/assets/2ae7d774-3b33-454f-a785-9555077ff1ae" />
+<img width="1528" height="832" alt="image" src="https://github.com/user-attachments/assets/0227413d-dbf8-4773-b860-c880833212ab" />
 
 The loyalty program has seen an upward trend in revenue, contrast to purchasing behavior of non-loyalty customers. Net revenue generated for loyalty program customers up 613% in 2020, just one year into effect. Following 2020 revenue boon, loyalty program still exhibits benefits in retaining customers, with greater order counts coming from loyalty program than that of non-loyalty customers for consecutive years of 2021 and 2022. As such, the loyalty program has demonstrated a positive trend towards better sales performance.  
 
-<img width="1397" height="818" alt="image" src="https://github.com/user-attachments/assets/860f6ad9-2aee-40bb-bfd5-58b2d20aca5f" />
+<img width="1507" height="832" alt="image" src="https://github.com/user-attachments/assets/97eafb92-21bb-4515-970f-fd36d0fefb1d" />
 
 Looking more closely to performance, the loyalty program has experienced a few successes, in which Apple Airpods and Samsung Webcam has more buyers coming from the loyalty program than not. This demonstrates early success in the program, especially for Apple Airpods which accounts for second-most revenue generating item for the Company. More than half of this highly sought product is accounted for by loyalty customers. 
 
