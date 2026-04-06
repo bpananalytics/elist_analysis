@@ -15,7 +15,7 @@ To address these concerns, we will explore the analysis in the following section
 - [**Refund Analysis:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#refund-analysis) An analysis of refunds from purchases made during the four years of the study.
 - [**Recommendation:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#recommendation) A summary of actionable steps to implement in light of this study's findings. 
 
-## Sales Overview
+# Sales Overview
 
 <img width="1821" height="363" alt="image" src="https://github.com/user-attachments/assets/733b633b-edec-47d6-a8dd-300647bf25fd" />
 
@@ -28,24 +28,24 @@ To better understand Company performance on sales, we focus on three north star 
 
 While these three metrics are observed across different layers of data, further analysis of the dataset reveal revenue highly correlated with order count. As such, either are interchangeable in demonstrating positive or negative sales performance. 
 
-### Sales Revenue
+## Sales Revenue
 - **Overview**: 2020 marked with incredible revenue growth, up 62% of previous year's revenue. Subsequent years show gradual return to previous levels, suggesting lockdown as a contributing factor to revenue surge.
 - **Geography**: North America leads in regional sales, with US making 60% of total revenue.
 - **Seasonality**: Q3 consistently records stronger revenue performance, likely driven by seasonaly increase in AOV for the months of July, August, and September. 
 
-### Average Order Value (AOV)
+## Average Order Value (AOV)
 - **Overview**: AOV grew by 30% in 2020, but returned to 2019 levels by 2022. Market contraction of lockdown accessible suppliers may be contributing factor to AOV growth, with associated market expansion of suppliers related to AOV decline.
 - **Geography**: APAC has the highest AOV. But by country, VG leads in AOV for all sales in the time frame of 2019-2022. 
 - **Seasonality**: Q3 has high AOV performance, likely driven by summer purchases and increased seasonal purchasing activity.  
 
-### Order Count 
+## Order Count 
 - **Overview**: Number of Orders experienced dramatic increase in 2020, followed by gradual increase in 2021 and return towards 2019 levels by 2022.
 - **Geography**: North America outperforms all other regions in order count, of which US contributes to 60% of all orders. EMEA is next best performer, with GB accounting for 10% of all orders.
 - **Seasonality**: Order Count experiences dips in February and October, likely due to end of holiday season in February and end of summer purchases in October respectively. 
 
-# Deep Dive Insight
+# Deep Dive Analysis
 
-## ERD Diagram
+## About the Data
 
 <img width="835" height="477" alt="image" src="https://github.com/user-attachments/assets/37befe8e-a928-4160-9d1e-868609b0ce78" />
 
@@ -84,31 +84,31 @@ Refunds were made with much overlap during the revenue boon during the year 2020
 
 # Recommendations
 
-**Expansion of Apple Product Line**
+## **Expansion of Apple Product Line**
 
 <img width="887" height="452" alt="image" src="https://github.com/user-attachments/assets/c0c28890-6292-49b5-8615-da124ca3115c" />
 
 Based on brand comparisons by revenue, Apple has consistently outsold all other brand products year after year since 2019, with 27% of Company's revenue coming from Airpods and 22% coming from Macbook. Accounting for nearly 50% of Company's total revenue coming from Apple products alone between the years 2019-2022, Apple consumption demands is remarkably high and sticky. Even with demand falling post-2020 with increased supply competition, the strong preference of Apple still outweighs other product line, demonstrating a substantial brand loyalty. Capitalizing on the Apple brand and image by selling more of their highyly demanded products would suggest a likely boost to revenue growth.  
 
-**Removal of Bose Product Line**
+## **Removal of Bose Product Line**
 
 <img width="765" height="163" alt="image" src="https://github.com/user-attachments/assets/f56edbd9-f801-42cf-a49a-e988356a5f8a" />
 
 Bose has experienced negative growth rate in revenue over the years, with staggering 91% revenue contraction in 2022 compared to 2021, of which also experienced a substantial revenue contraction. Removal of the Bose product line will result in better catering to shifting consumer demands and open valuable operational resources and capacity towards better selling more profitable brands like Apple. With the year over year declining trend for Bose, this would be a conservative choice that can be safely made to increase the bottom line. 
 
-**Center Customer Base**
+## **Center Customer Base**
 
 <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/e4337df8-ed15-4e2f-b93f-29a011c2a2e6" />
 
 Of the highest performers, Company has 61% of revenue tied to US consumer base. This suggests that specializing towards a specific demographic like the US may enable further market penetration and allow for better allocation of logistical resources such as currency exchange, shipping, and localization. 
 
-**Boost Loyalty Program**
+## **Boost Loyalty Program**
 
 <img width="1817" height="383" alt="image" src="https://github.com/user-attachments/assets/24c48754-6428-4ec3-839f-3c6447ce8fee" />
 
 By 2022, Loyalty Program customers has outperformed Non-loyalty customers on all marks for revenue, AOV, and order count. Loyalty Program customers are making more orders at higher value points than non-loyal customers. This has demonstrated success in the loyalty program, with 2021 being a pivotal year where consumers have adapted, embraced, and sees value in using the program. To capitalize on this effect more, Company should consider boosting enrollment in this program and incentivize new patrons to join. 
 
-**Optimize Summer marketing**
+## **Optimize Summer marketing**
 
 <img width="1802" height="347" alt="image" src="https://github.com/user-attachments/assets/722ff278-0ffc-46b9-96da-2f89b00a0ae0" />
 
