@@ -104,9 +104,9 @@ By 2022, Loyalty Program customers has outperformed Non-loyalty customers on all
 
 ## **Center Customer Base**
 
-<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/e4337df8-ed15-4e2f-b93f-29a011c2a2e6" />
+<img width="1430" height="825" alt="image" src="https://github.com/user-attachments/assets/30787a1e-61a9-476f-a632-89d20ef70286" />
 
-Of the highest performers, Company has 61% of revenue tied to US consumer base. This suggests that specializing towards a specific demographic like the US may enable further market penetration and allow for better allocation of logistical resources such as currency exchange, shipping, and localization. 
+Of the highest top ten consumer base, Company has 64% of revenue coming from the United States. This suggests that specializing towards a specific demographic like the US may enable further market penetration and allow for better allocation of logistical resources such as currency exchange, shipping, and localization. 
 
 ## **Optimize Summer marketing**
 
