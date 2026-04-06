@@ -10,8 +10,8 @@ E-List Electronics is a global online retailer focused on consumer electronics, 
 To address these concerns, we will explore the analysis in the following sections.
 
 - [**Sales Overview:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#sales-overview) Evaluation of historical sales patterns, both globally and by region, focusing on Revenue, Average Order Value (AOV), and Order Count.  
-- [**Product Level Performance:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#product-trend) An analysis of Company's various product lines, understanding their impact on sales. 
-- [**Loyalty Program Success:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#loyalty-program) An assessment of the pilot loyalty program and its impact based on sales.  
+- [**Product Trend:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#product-trend) An analysis of Company's various product lines, understanding their impact on sales. 
+- [**Loyalty Program:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#loyalty-program) An assessment of the pilot loyalty program and its impact based on sales.  
 - [**Refund Analysis:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#refund-analysis) An analysis of refunds from purchases made during the four years of the study.
 - [**Recommendation:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#recommendations) A summary of actionable steps to implement in light of this study's findings. 
 
@@ -96,17 +96,17 @@ Based on brand comparisons by revenue, Apple has consistently outsold all other 
 
 Bose has experienced negative growth rate in revenue over the years, with staggering 91% revenue contraction in 2022 compared to 2021, of which also experienced a substantial revenue contraction. Removal of the Bose product line will result in better catering to shifting consumer demands and open valuable operational resources and capacity towards better selling more profitable brands like Apple. With the year over year declining trend for Bose, this would be a conservative choice that can be safely made to increase the bottom line. 
 
-## **Center Customer Base**
-
-<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/e4337df8-ed15-4e2f-b93f-29a011c2a2e6" />
-
-Of the highest performers, Company has 61% of revenue tied to US consumer base. This suggests that specializing towards a specific demographic like the US may enable further market penetration and allow for better allocation of logistical resources such as currency exchange, shipping, and localization. 
-
 ## **Boost Loyalty Program**
 
 <img width="1817" height="383" alt="image" src="https://github.com/user-attachments/assets/24c48754-6428-4ec3-839f-3c6447ce8fee" />
 
 By 2022, Loyalty Program customers has outperformed Non-loyalty customers on all marks for revenue, AOV, and order count. Loyalty Program customers are making more orders at higher value points than non-loyal customers. This has demonstrated success in the loyalty program, with 2021 being a pivotal year where consumers have adapted, embraced, and sees value in using the program. To capitalize on this effect more, Company should consider boosting enrollment in this program and incentivize new patrons to join. 
+
+## **Center Customer Base**
+
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/e4337df8-ed15-4e2f-b93f-29a011c2a2e6" />
+
+Of the highest performers, Company has 61% of revenue tied to US consumer base. This suggests that specializing towards a specific demographic like the US may enable further market penetration and allow for better allocation of logistical resources such as currency exchange, shipping, and localization. 
 
 ## **Optimize Summer marketing**
 
