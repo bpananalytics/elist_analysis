@@ -13,7 +13,7 @@ To address these concerns, we will explore the analysis in the following section
 - [**Product Level Performance:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#product-trend) An analysis of Company's various product lines, understanding their impact on sales. 
 - [**Loyalty Program Success:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#loyalty-program) An assessment of the pilot loyalty program and its impact based on sales.  
 - [**Refund Analysis:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#refund-analysis) An analysis of refunds from purchases made during the four years of the study.
-- [**Recommendation:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#recommendation) A summary of actionable steps to implement in light of this study's findings. 
+- [**Recommendation:**](https://github.com/bpananalytics/elist_analysis/blob/main/README.md#recommendations) A summary of actionable steps to implement in light of this study's findings. 
 
 # Sales Overview
 
