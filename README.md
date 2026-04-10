@@ -65,17 +65,17 @@ While the airpods and gaming monitor take first place for order count and gross 
 
 ## Loyalty Program
 
-<img width="1528" height="832" alt="image" src="https://github.com/user-attachments/assets/0227413d-dbf8-4773-b860-c880833212ab" />
+<img width="1456" height="832" alt="image" src="https://github.com/user-attachments/assets/0c80e0a5-69d2-4e3b-a70f-db9fd5506889" />
 
 **The loyalty program has seen an upward trend in revenue**, contrast to purchasing behavior of non-loyalty customers. Net revenue generated for loyalty program customers up 613% in 2020, just one year into effect. Following 2020 revenue boon, loyalty program still exhibits benefits in retaining customers, with greater order counts coming from loyalty program than that of non-loyalty customers for consecutive years of 2021 and 2022. As such, the loyalty program has demonstrated a positive trend towards better sales performance.  
 
-<img width="1507" height="832" alt="image" src="https://github.com/user-attachments/assets/97eafb92-21bb-4515-970f-fd36d0fefb1d" />
+<img width="1437" height="846" alt="image" src="https://github.com/user-attachments/assets/f09740bb-8e0a-40bc-9ce2-9062d24dde31" />
 
 Looking more closely to performance, the loyalty program has experienced a few successes, in which Apple Airpods and Samsung Webcam has more buyers coming from the loyalty program than not. This demonstrates early success in the program, especially for Apple Airpods which accounts for second-most revenue generating item for the Company. More than half of this highly sought product is accounted for by loyalty customers. 
 
 ## Refund Analysis
 
-<img width="1235" height="736" alt="image" src="https://github.com/user-attachments/assets/5ec7ed08-2b8d-44e0-af98-25ae868cbe2d" />
+<img width="1421" height="825" alt="image" src="https://github.com/user-attachments/assets/8b860ffb-33f1-48a9-89b9-91ec5f325d40" />
 
 **Refunds were made with much overlap during the revenue boon during the year 2020 and 2021**, after which buyers are conservative with their purchasing and buy only what they needed. As such, from August 2021 to end of 2022, no refunds were requested by buyers. Of which, the bulk of revenue loss from refunds were from Macbook air (33%), gaming monitors (29%), and Apple Airpod (19%). However, by volume, the most refunded product is Apple Airpods accounting for 49% of the returned items. The least refunded products were the bose headphones followed by the Apple iphone. The former being niche in appeal while the latter having a functional necessity for everyday use. While the loyalty program issues slightly more refunds by volume, non-loyalty accounts for a larger share of revenue loss, representing 62% of all refunded revenue. Unsurprisingly, North America accounted for 56% of the refunds, followed by EMEA and APAC, paralleling Company's customer base. Most refunded items have a delivery time between 5-10 days, but at similar levels. As such, it is unlikely that delivery speed is a factor in any of the refunds. 
 
