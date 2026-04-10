@@ -1,4 +1,4 @@
-# Company Background
+<img width="767" height="166" alt="image" src="https://github.com/user-attachments/assets/40e134c7-b213-4dae-bd04-d27f1407c13b" /># Company Background
 
 E-List Electronics is a global online retailer focused on consumer electronics, offering products such as laptops, smartphones, monitors, and headphones. Established in 2018, the company runs a digital marketplace that features a broad range of items from multiple manufacturers and third-party sellers. Operating across North America, EMEA, APAC, and LATAM, E-List’s key priorities include growing its international presence, enhancing marketing effectiveness, and boosting customer loyalty through a rewards program. This study aims to address the following questions in effort to make market-based decision to further boost sales and cater to its consumer needs: 
 
@@ -87,13 +87,14 @@ Looking more closely to performance, the loyalty program has experienced a few s
 
 ## **Expansion of Apple Product Line**
 
-<img width="887" height="452" alt="image" src="https://github.com/user-attachments/assets/c0c28890-6292-49b5-8615-da124ca3115c" />
+<img width="887" height="463" alt="image" src="https://github.com/user-attachments/assets/6d813f8d-26b6-4e1a-bfcc-86e31064ac2f" />
 
 Based on brand comparisons by revenue, Apple has consistently outsold all other brand products year after year since 2019, with 27% of Company's revenue coming from Airpods and 22% coming from Macbook. Accounting for nearly 50% of Company's total revenue coming from Apple products alone between the years 2019-2022, Apple consumption demands is remarkably high and sticky. Even with demand falling post-2020 with increased supply competition, the strong preference of Apple still outweighs other product line, demonstrating a substantial brand loyalty. Capitalizing on the Apple brand and image by selling more of their highyly demanded products would suggest a likely boost to revenue growth.  
 
 ## **Removal of Bose Product Line**
 
-<img width="765" height="163" alt="image" src="https://github.com/user-attachments/assets/f56edbd9-f801-42cf-a49a-e988356a5f8a" />
+<img width="767" height="166" alt="image" src="https://github.com/user-attachments/assets/a400c949-dda0-4db0-b93a-af6f03f95a66" />
+
 
 Bose has experienced negative growth rate in revenue over the years, with staggering 91% revenue contraction in 2022 compared to 2021, of which also experienced a substantial revenue contraction. Removal of the Bose product line will result in better catering to shifting consumer demands and open valuable operational resources and capacity towards better selling more profitable brands like Apple. With the year over year declining trend for Bose, this would be a conservative choice that can be safely made to increase the bottom line. 
 
