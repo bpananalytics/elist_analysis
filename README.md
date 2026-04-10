@@ -1,5 +1,3 @@
-<img width="767" height="166" alt="image" src="https://github.com/user-attachments/assets/40e134c7-b213-4dae-bd04-d27f1407c13b" /># Company Background
-
 E-List Electronics is a global online retailer focused on consumer electronics, offering products such as laptops, smartphones, monitors, and headphones. Established in 2018, the company runs a digital marketplace that features a broad range of items from multiple manufacturers and third-party sellers. Operating across North America, EMEA, APAC, and LATAM, E-List’s key priorities include growing its international presence, enhancing marketing effectiveness, and boosting customer loyalty through a rewards program. This study aims to address the following questions in effort to make market-based decision to further boost sales and cater to its consumer needs: 
 
 - What is the company's overall sales performance?
@@ -93,7 +91,7 @@ Based on brand comparisons by revenue, Apple has consistently outsold all other 
 
 ## **Removal of Bose Product Line**
 
-<img width="782" height="163" alt="image" src="https://github.com/user-attachments/assets/413b4911-9a6c-48e2-859d-4cc4e5313fbd" />
+<img width="782" height="163" alt="image" src="https://github.com/user-attachments/assets/02b2b59d-8ada-4441-b245-9894c735bee8" />
 
 Bose has experienced negative growth rate in revenue over the years, with staggering 91% revenue contraction in 2022 compared to 2021, of which also experienced a substantial revenue contraction. Removal of the Bose product line will result in better catering to shifting consumer demands and open valuable operational resources and capacity towards better selling more profitable brands like Apple. With the year over year declining trend for Bose, this would be a conservative choice that can be safely made to increase the bottom line. 
 
