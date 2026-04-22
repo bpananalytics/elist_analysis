@@ -1,9 +1,10 @@
+# Background 
 E-List Electronics is a global online retailer focused on consumer electronics, offering products such as laptops, smartphones, monitors, and headphones. Established in 2018, the company runs a digital marketplace that features a broad range of items from multiple manufacturers and third-party sellers. Operating across North America, EMEA, APAC, and LATAM, E-List’s key priorities include growing its international presence, enhancing marketing effectiveness, and boosting customer loyalty through a rewards program. This study aims to address the following questions in effort to make market-based decision to further boost sales and cater to its consumer needs: 
 
-- What is the company's overall sales performance?
-- How are the current brands and products doing?
-- Has the pilot loyalty program demonstrated success in boosting revenue?
-- What has the refunded items told us about consumer demands?
+- **What is the company's overall sales performance?**
+- **How are the current brands and products doing?**
+- **Has the pilot loyalty program demonstrated success in boosting revenue?**
+- **What has the refunded items told us about consumer demands?**
 
 To address these concerns, we will explore the analysis in the following sections.
 
