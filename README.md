@@ -88,28 +88,28 @@ Looking more closely to performance, the loyalty program has experienced a few s
 
 <img width="887" height="463" alt="image" src="https://github.com/user-attachments/assets/6d813f8d-26b6-4e1a-bfcc-86e31064ac2f" />
 
-Based on brand comparisons by revenue, Apple has consistently outsold all other brand products year after year since 2019, with 27% of Company's revenue coming from Airpods and 22% coming from Macbook. Accounting for nearly 50% of Company's total revenue coming from Apple products alone between the years 2019-2022, Apple consumption demands is remarkably high and sticky. Even with demand falling post-2020 with increased supply competition, the strong preference of Apple still outweighs other product line, demonstrating a substantial brand loyalty. Capitalizing on the Apple brand and image by selling more of their highyly demanded products would suggest a likely boost to revenue growth.  
+Based on brand comparisons by revenue, **Apple has consistently outsold all other brand products** year after year since 2019, with 27% of Company's revenue coming from Airpods and 22% coming from Macbook. Accounting for nearly 50% of Company's total revenue coming from Apple products alone between the years 2019-2022, Apple consumption demands is remarkably high and sticky. Even with demand falling post-2020 with increased supply competition, the strong preference of Apple still outweighs other product line, demonstrating a substantial brand loyalty. Capitalizing on the Apple brand and image by selling more of their highyly demanded products would suggest a likely boost to revenue growth.  
 
 ## **Removal of Bose Product Line**
 
 <img width="782" height="163" alt="image" src="https://github.com/user-attachments/assets/02b2b59d-8ada-4441-b245-9894c735bee8" />
 
-Bose has experienced negative growth rate in revenue over the years, with staggering 91% revenue contraction in 2022 compared to 2021, of which also experienced a substantial revenue contraction. Removal of the Bose product line will result in better catering to shifting consumer demands and open valuable operational resources and capacity towards better selling more profitable brands like Apple. With the year over year declining trend for Bose, this would be a conservative choice that can be safely made to increase the bottom line. 
+**Bose has experienced negative growth rate in revenue over the years**, with staggering 91% revenue contraction in 2022 compared to 2021, of which also experienced a substantial revenue contraction. Removal of the Bose product line will result in better catering to shifting consumer demands and open valuable operational resources and capacity towards better selling more profitable brands like Apple. With the year over year declining trend for Bose, this would be a conservative choice that can be safely made to increase the bottom line. 
 
 ## **Boost Loyalty Program**
 
 <img width="1817" height="383" alt="image" src="https://github.com/user-attachments/assets/24c48754-6428-4ec3-839f-3c6447ce8fee" />
 
-By 2022, Loyalty Program customers has outperformed Non-loyalty customers on all marks for revenue, AOV, and order count. Loyalty Program customers are making more orders at higher value points than non-loyal customers. This has demonstrated success in the loyalty program, with 2021 being a pivotal year where consumers have adapted, embraced, and sees value in using the program. To capitalize on this effect more, Company should consider boosting enrollment in this program and incentivize new patrons to join. 
+By 2022, **Loyalty Program customers has outperformed Non-loyalty customers on all marks** for revenue, AOV, and order count. Loyalty Program customers are making more orders at higher value points than non-loyal customers. This has demonstrated success in the loyalty program, with 2021 being a pivotal year where consumers have adapted, embraced, and sees value in using the program. To capitalize on this effect more, Company should consider boosting enrollment in this program and incentivize new patrons to join. 
 
 ## **Center Customer Base**
 
 <img width="1357" height="833" alt="image" src="https://github.com/user-attachments/assets/4ab6aadb-d53e-4439-8ac1-f8f6d1d76aba" />
 
-Of the highest top ten consumer base, Company has 64% of revenue coming from the United States. This suggests that specializing towards a specific demographic like the US may enable further market penetration and allow for better allocation of logistical resources such as currency exchange, shipping, and localization. 
+Of the highest top ten consumer base, Company has **64% of revenue coming from the United States**. This suggests that specializing towards a specific demographic like the US may enable further market penetration and allow for better allocation of logistical resources such as currency exchange, shipping, and localization. 
 
 ## **Optimize Summer marketing**
 
 <img width="1802" height="347" alt="image" src="https://github.com/user-attachments/assets/722ff278-0ffc-46b9-96da-2f89b00a0ae0" />
 
-Summer, marked by the months of July, August, and September show upward trajectory on Revenue, AOV, and Order Count. This suggests that consumer are more apt to spend and make purchases during Q3 months of high activity. Preparing marketing campaigns geared towards this season will capture consumer demands during their time of least resistance to purchasing. 
+**Summer, marked by the months of July, August, and September show upward trajectory** on Revenue, AOV, and Order Count. This suggests that consumer are more apt to spend and make purchases during Q3 months of high activity. Preparing marketing campaigns geared towards this season will capture consumer demands during their time of least resistance to purchasing. 
